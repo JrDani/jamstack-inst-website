@@ -2,7 +2,7 @@
 baseURL = "https://examplesite.org"
 languageCode = "pt-br"
 title = "Botrice | Blog pessoal"
-theme = "institucional"
+theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 6
 

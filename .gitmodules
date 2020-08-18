@@ -1,0 +1,3 @@
+[submodule "themes/institucional"]
+	path = themes/institucional
+	url = https://github.com/JrDani/jamstack-inst-website.git
